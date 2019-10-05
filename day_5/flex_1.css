@@ -1,0 +1,14 @@
+div.class_2{
+  display:flex;
+   height:100px;
+  width:450px;
+  
+}
+
+div.class_1{
+  display:flex;
+  background:blue;
+  height:100px;
+  width:40px;
+  margin:10px;
+}

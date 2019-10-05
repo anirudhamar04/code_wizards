@@ -1,0 +1,21 @@
+div.class_1{
+  display:flex;
+  background:blue;
+  height:100px;
+  width:100px;
+  margin:10px;
+}
+div.class_3{
+  display:flex;
+  background:blue;
+  height:100px;
+  width:200px;
+  margin:10px;
+}
+
+div.class_2{
+  display:flex;
+   height:110px;
+  width:540px;
+  
+}
